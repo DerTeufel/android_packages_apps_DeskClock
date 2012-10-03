@@ -344,6 +344,18 @@
     <string name="alarm_profile_summary_change_to">When alarm triggers, the profile will be changed to
         <xliff:g id="profile">%s</xliff:g></string>
 
+    <!-- Shake to snooze/dismiss/nothing alarm -->
+    <string name="shake_title">Shake</string>
+    <string name="shake_summary">Shake to
+        <xliff:g id="action">%s</xliff:g></string>
+    <string name="shake_dialog">Shake device to&#8230;</string>
+    <string name="math_title">Math quiz</string>
+    <string name="math_summary">Solve a math quiz to stop the Alarm</string>
+    <string name="math_dialog">Are you awake?</string>
+    <string name="increasing_volume_title">Increasing volume</string>
+    <string name="increasing_volume_summary">Use the option below to set the max. volume level</string>
+
+
 
 <!-- =============== CyanogenMod Entries =============== -->
 
